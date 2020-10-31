@@ -1,1 +1,1 @@
-{"id":"post1","type":"post","seo":{"og:title":"post 1","description":"some post 1"},"en":{"title":"פוסט 1","body":"<p>שלום</p>"},"image":"","body":"<p>hi there</p>","title":"post 1"}
+{"id":"post1","type":"post","seo":{"og:title":"post 1","description":"some post 1"},"en":{"title":"פוסט 1","body":"<p>שלום</p><p><br></p>"},"image":"","body":"<p>hi there</p><p>hello</p>","title":"post 1"}

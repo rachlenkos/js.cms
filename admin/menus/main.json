@@ -1,7 +1,8 @@
-{ 
+{
     "en":[
         { "url":"", "label":"Home"},
         { "url":"about-us", "label":"About Us"},
-        { "url":"posts", "label":"Posts"}
+        { "url":"posts", "label":"Posts"},
+        { "url":"page_1", "label":"Page 1"}
     ]
 }
